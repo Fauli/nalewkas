@@ -2,6 +2,21 @@
 
 My journey making various Nalewkas :)
 
+# Table of Contents
+1. [Introduction](#introduction)
+2. [What is a Nalewka](#what-is-a-nalewka)
+3. [Traditional Nalewka](#traditional-nalewka)
+4. [Standard recipe for Wiśniówka](#standard-recipe-for-wiśniówka)
+    - [Ingredients](#ingredients)
+    - [Steps](#steps)
+5. [Nalewkas tried out](#nalewkas-tried-out)
+    - [Onion](#onion)
+    - [Banana](#banana)
+    - [Red beets](#red-beets)
+    - [Tomatoes](#tomatoes)
+6. [Tried but not documented](#tried-but-not-documented)
+
+
 ## Introduction
 
 I was introduced to the world of Nalewka by a close friend some years ago, and since then, I've been crafting my own batches annually. More than just a delightful beverage to enjoy with friends, Nalewka also makes a thoughtful, handcrafted gift.
@@ -101,7 +116,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 
 
-### Tried but not documented
+## Tried but not documented
 
 * Rhubarb and Strawberry
 * Mirabellen
