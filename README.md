@@ -68,7 +68,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ### Onion
 
-* 1.3kg of Onion
+* 1.3kg of onion
 * 2.1l of 70% alcohol
 * ?? sugar
 
@@ -81,7 +81,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ### Banana
 
-* 1.6kg of Bananas
+* 1.6kg of fair trade bananas
 * 2.1l of 70% alcohol
 * ?? sugar
 
@@ -95,7 +95,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ### Beatroots
 
-* 1.95kg of Beatroots
+* 1.95kg of beatroots
 * 2.1l of 70% alcohol
 * ?? sugar
 
@@ -103,7 +103,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ### Tomatoes
 
-* 1.7kg of Tomatoes
+* 1.7kg of tomatoes
 * 2.1l of 70% alcohol
 * ?? sugar
 
