@@ -1,6 +1,6 @@
 # Nalewkas
 
-My journey making various Nalewkas
+My journey making various Nalewkas :)
 
 ## Introduction
 
@@ -10,12 +10,11 @@ Initially, I began with the classic fruity Nalewkas but soon ventured into a bro
 
 ## What is a Nalewka
 
-Nalewkas are a distinctive category of traditional Polish liqueurs, characterized by their historical development within Eastern European culinary traditions. Originating in the medieval period, these liqueurs reflect a long-standing practice of using ethyl alcohol as a solvent to extract medicinal and flavor compounds from botanical sources. 
+Nalewkas are a time-honored category of Polish liqueurs, evolving through centuries within Eastern European culinary traditions. These spirits trace their origins back to the medieval period, where ethyl alcohol was utilized to extract medicinal and flavor properties from botanical sources.
 
-The method of production historically involved maceration followed by a maturation process, allowing the bioactive constituents to imbue the spirit with therapeutic and gustatory properties.
+The traditional process involves maceration and maturation, during which bioactive constituents imbue the alcohol with both therapeutic benefits and a rich palette of flavors.
 
-Over centuries, nalewkas evolved from herbal medicines to become revered cultural beverages, consumed both for health benefits and gastronomic pleasure.
-
+Over time, Nalewkas have transitioned from herbal remedies to cherished cultural beverages, enjoyed for both their health benefits and their culinary virtues.
 
 ## Traditional Nalewka
 
@@ -58,23 +57,48 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * ?? sugar
 
+![onions-scale](/.attachements/onions-scale.jpg)
+
+![onions-front](/.attachements/onions-front.jpg)
+
+![onions-top](/.attachements/onions-top.jpg)
+
+
 ### Banana
 
 * 1.6kg of Bananas
 * 2.1l of 70% alcohol
 * ?? sugar
 
+![bananas-scale](/.attachements/bananas-scale.jpg)
+
+![bananas-front](/.attachements/bananas-front.jpg)
+
+![bananas-top](/.attachements/bananas-top.jpg)
+
+
+
 ### Beatroots
 
-* 1.6kg of Beatroots
+* 1.95kg of Beatroots
 * 2.1l of 70% alcohol
 * ?? sugar
+
+![beatroots-front](/.attachements/beatroots-front.jpg)
 
 ### Tomatoes
 
 * 1.7kg of Tomatoes
 * 2.1l of 70% alcohol
 * ?? sugar
+
+![tomatoes-cleaning](/.attachements/tomatoes-cleaning.jpg)
+
+![tomatoes-front](/.attachements/tomatoes-front.jpg)
+
+![tomatoes-top](/.attachements/tomatoes-top.jpg)
+
+
 
 
 ### Tried but not documented
