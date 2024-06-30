@@ -118,6 +118,11 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ## Tried but not documented
 
+* Sour cherry
+* Blackberries
+* Figs
+* Pear
+* Rhubarb
 * Rhubarb and Strawberry
 * Mirabellen
 * Rasperries
