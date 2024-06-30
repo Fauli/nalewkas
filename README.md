@@ -15,6 +15,7 @@ My journey making various Nalewkas :)
     - [Red beets](#red-beets)
     - [Tomatoes](#tomatoes)
 6. [Tried but not documented](#tried-but-not-documented)
+7. [Planned to try](#planned-to-try)
 
 
 ## Introduction
@@ -70,7 +71,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 * 1.3kg of onion
 * 2.1l of 70% alcohol
-* ?? sugar
+* 300g sugar
 
 ![onions-scale](/.attachements/onions-scale.jpg)
 
@@ -83,7 +84,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 * 1.6kg of fair trade bananas
 * 2.1l of 70% alcohol
-* ?? sugar
+* 300g sugar
 
 ![bananas-scale](/.attachements/bananas-scale.jpg)
 
@@ -97,7 +98,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 * 1.95kg of beatroots
 * 2.1l of 70% alcohol
-* ?? sugar
+* 300g sugar
 
 ![beatroots-front](/.attachements/beatroots-front.jpg)
 
@@ -105,7 +106,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 * 1.7kg of tomatoes
 * 2.1l of 70% alcohol
-* ?? sugar
+* 300g sugar
 
 ![tomatoes-cleaning](/.attachements/tomatoes-cleaning.jpg)
 
@@ -131,3 +132,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * Jostaberry
 * Green Walnuts
 * Elderberries
+
+## Planned to try
+* Garlic
+* Carrots
