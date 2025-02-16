@@ -79,6 +79,11 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![onions-top](/.attachements/onions-top.jpg)
 
+![onions-sugar](/.attachements/onion-sugar.jpg)
+
+![onions-after-wait](/.attachements/onions-after-wait.jpg)
+
+![onions-after-fruits-gone](/.attachements/onions-after-fruits-gone.jpg)
 
 ### Banana
 
@@ -92,7 +97,11 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![bananas-top](/.attachements/bananas-top.jpg)
 
+![bananas-sugar](/.attachements/banana-sugar.jpg)
 
+![bananas-after-wait](/.attachements/banana-after-wait.jpg)
+
+![bananas-after-fruits-gone](/.attachements/banana-after-fruits-gone.jpg)
 
 ### Beatroots
 
@@ -114,7 +123,26 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![tomatoes-top](/.attachements/tomatoes-top.jpg)
 
+![tomatoes-sugar](/.attachements/tomato-sugar.jpg)
 
+![tomatoes-after-wait](/.attachements/tomato-after-wait.jpg)
+
+![tomatoes-after-fruits-gone](/.attachements/tomato-after-fruits-gone.jpg)
+
+
+### Garlic
+
+* 1.2kg of garlic
+* 2.0l of 70% alcohol
+* 300g sugar
+
+![tomatoes-cutting](/.attachements/garlic-1.jpg)
+
+![tomatoes-cut](/.attachements/garlic-2.jpg)
+
+![tomatoes-prepared](/.attachements/garlic-3.jpg)
+
+![tomatoes-in-booze](/.attachements/garlic-4.jpg)
 
 
 ## Tried but not documented
@@ -134,5 +162,4 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * Elderberries
 
 ## Planned to try
-* Garlic
 * Carrots
