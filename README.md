@@ -87,16 +87,16 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 </p>
 <p>
   <img src="/.attachements/onion-sugar.jpg" alt="onions-sugar" width="50%">
-  Adding the sugar to the container
 </p>
+  Adding the sugar to the container
 <p>
   <img src="/.attachements/onion-after-wait.jpg" alt="onions-after-wait" width="50%">
-  Color of the mixture after the wait
 </p>
+  Color of the mixture after the wait
 <p>
   <img src="/.attachements/onion-after-fruits-gone.jpg" alt="onions-after-fruits-gone" width="50%">
-  Nalewka after the onions are removed
 </p>
+  Nalewka after the onions are removed
 
 ### Banana
 
@@ -115,16 +115,16 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 </p>
 <p>
   <img src="/.attachements/banana-sugar.jpg" alt="bananas-sugar" width="50%">
-  Adding the sugar to the container
 </p>
+  Adding the sugar to the container
 <p>
   <img src="/.attachements/banana-after-wait.jpg" alt="bananas-after-wait" width="50%">
-  Color of the mixture after the wait
 </p>
+  Color of the mixture after the wait
 <p>
   <img src="/.attachements/banana-after-fruits-gone.jpg" alt="bananas-after-fruits-gone" width="50%">
-  Nalewka after the fruits are removed
 </p>
+  Nalewka after the fruits are removed
 
 ### Beetroots
 
@@ -140,12 +140,12 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 </p>
 <p>
   <img src="/.attachements/beetroot-after-wait.jpg" alt="beetroots-after-wait" width="50%">
-  Color of the mixture after the wait
 </p>
+  Color of the mixture after the wait
 <p>
   <img src="/.attachements/beetroot-after-fruits-gone.jpg" alt="beetroots-after-fruits-gone" width="50%">
-  Nalewka after the beetroots are removed
 </p>
+  Nalewka after the beetroots are removed
 
 ### Tomatoes
 
@@ -164,16 +164,16 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 </p>
 <p>
   <img src="/.attachements/tomato-sugar.jpg" alt="tomatoes-sugar" width="50%">
-  Adding the sugar to the container
 </p>
+  Adding the sugar to the container
 <p>
   <img src="/.attachements/tomato-after-wait.jpg" alt="tomatoes-after-wait" width="50%">
-  Color of the mixture after the wait
 </p>
+  Color of the mixture after the wait
 <p>
   <img src="/.attachements/tomato-after-fruits-gone.jpg" alt="tomatoes-after-fruits-gone" width="50%">
-  Nalewka after the fruits are removed
 </p>
+  Nalewka after the fruits are removed
 
 
 ### Garlic
