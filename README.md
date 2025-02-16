@@ -110,13 +110,13 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-![beatroots-front](/.attachements/beatroots-front.jpg)
+![beetroots-front](/.attachements/beetroots-front.jpg)
 
-![beatroots-sugar](/.attachements/beatroot-sugar.jpg)
+![beetroots-sugar](/.attachements/beetroot-sugar.jpg)
 
-![beatroots-after-wait](/.attachements/beatroot-after-wait.jpg)
+![beetroots-after-wait](/.attachements/beetroot-after-wait.jpg)
 
-![beatroots-after-fruits](/.attachements/beatroot-after-fruits-gone.jpg)
+![beetroots-after-fruits](/.attachements/beetroot-after-fruits-gone.jpg)
 
 ### Tomatoes
 
@@ -143,13 +143,13 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.0l of 70% alcohol
 * 300g sugar
 
-![tomatoes-cutting](/.attachements/garlic-1.jpg)
+![onion-cutting](/.attachements/garlic-1.jpg)
 
-![tomatoes-cut](/.attachements/garlic-2.jpg)
+![onion-cut](/.attachements/garlic-2.jpg)
 
-![tomatoes-prepared](/.attachements/garlic-3.jpg)
+![onion-prepared](/.attachements/garlic-3.jpg)
 
-![tomatoes-in-booze](/.attachements/garlic-4.jpg)
+![onion-in-booze](/.attachements/garlic-4.jpg)
 
 
 ## Tried but not documented
