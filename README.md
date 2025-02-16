@@ -76,17 +76,24 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-![onions-scale](/.attachements/onions-scale.jpg){ width=50% }
-
-![onions-front](/.attachements/onions-front.jpg){ width=50% }
-
-![onions-top](/.attachements/onions-top.jpg){ width=50% }
-
-![onions-sugar](/.attachements/onion-sugar.jpg){ width=50% }
-
-![onions-after-wait](/.attachements/onion-after-wait.jpg){ width=50% }
-
-![onions-after-fruits-gone](/.attachements/onion-after-fruits-gone.jpg){ width=50% }
+<p align="center">
+  <img src="/.attachements/onions-scale.jpg" alt="onions-scale" width="50%">
+</p>
+<p align="center">
+  <img src="/.attachements/onions-front.jpg" alt="onions-front" width="50%">
+</p>
+<p align="center">
+  <img src="/.attachements/onions-top.jpg" alt="onions-top" width="50%">
+</p>
+<p align="center">
+  <img src="/.attachements/onion-sugar.jpg" alt="onions-sugar" width="50%">
+</p>
+<p align="center">
+  <img src="/.attachements/onion-after-wait.jpg" alt="onions-after-wait" width="50%">
+</p>
+<p align="center">
+  <img src="/.attachements/onion-after-fruits-gone.jpg" alt="onions-after-fruits-gone" width="50%">
+</p>
 
 ### Banana
 
