@@ -76,27 +76,17 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p>
-  <img src="/.attachements/onions-scale.jpg" alt="onions-scale" width="50%">
-</p>
-<p>
-  <img src="/.attachements/onions-front.jpg" alt="onions-front" width="50%">
-</p>
-<p>
-  <img src="/.attachements/onions-top.jpg" alt="onions-top" width="50%">
-</p>
-<p>
-  <img src="/.attachements/onion-sugar.jpg" alt="onions-sugar" width="50%">
-</p>
-  Adding the sugar to the container
-<p>
-  <img src="/.attachements/onion-after-wait.jpg" alt="onions-after-wait" width="50%">
-</p>
-  Color of the mixture after the wait
-<p>
-  <img src="/.attachements/onion-after-fruits-gone.jpg" alt="onions-after-fruits-gone" width="50%">
-</p>
-  Nalewka after the onions are removed
+<img src="/.attachements/onions-scale.jpg" alt="onions-scale" width="50%">
+<img src="/.attachements/onions-front.jpg" alt="onions-front" width="50%">
+<img src="/.attachements/onions-top.jpg" alt="onions-top" width="50%">
+<img src="/.attachements/onion-sugar.jpg" alt="onions-sugar" width="50%">
+Adding the sugar to the container
+
+<img src="/.attachements/onion-after-wait.jpg" alt="onions-after-wait" width="50%">
+Color of the mixture after the wait
+
+<img src="/.attachements/onion-after-fruits-gone.jpg" alt="onions-after-fruits-gone" width="50%">
+Nalewka after the onions are removed
 
 ### Banana
 
