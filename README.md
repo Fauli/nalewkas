@@ -3,20 +3,22 @@
 My journey making various Nalewkas :)
 
 # Table of Contents
-1. [Introduction](#introduction)
-2. [What is a Nalewka](#what-is-a-nalewka)
-3. [Traditional Nalewka](#traditional-nalewka)
-4. [Standard recipe for Wiśniówka](#standard-recipe-for-wiśniówka)
+- [Nalewkas](#nalewkas)
+- [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [What is a Nalewka](#what-is-a-nalewka)
+  - [Traditional Nalewka](#traditional-nalewka)
+  - [Standard recipe for Wiśniówka](#standard-recipe-for-wiśniówka)
     - [Ingredients](#ingredients)
     - [Steps](#steps)
-5. [Nalewkas tried out](#nalewkas-tried-out)
+  - [Nalewkas tried out](#nalewkas-tried-out)
     - [Onion](#onion)
     - [Banana](#banana)
-    - [Red beets](#red-beets)
+    - [Beetroots](#beetroots)
     - [Tomatoes](#tomatoes)
     - [Garlic](#garlic)
-6. [Tried but not documented](#tried-but-not-documented)
-7. [Planned to try](#planned-to-try)
+  - [Tried but not documented](#tried-but-not-documented)
+  - [Planned to try](#planned-to-try)
 
 
 ## Introduction
@@ -74,17 +76,17 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-![onions-scale](/.attachements/onions-scale.jpg)
+![onions-scale](/.attachements/onions-scale.jpg){ width=50% }
 
-![onions-front](/.attachements/onions-front.jpg)
+![onions-front](/.attachements/onions-front.jpg){ width=50% }
 
-![onions-top](/.attachements/onions-top.jpg)
+![onions-top](/.attachements/onions-top.jpg){ width=50% }
 
-![onions-sugar](/.attachements/onion-sugar.jpg)
+![onions-sugar](/.attachements/onion-sugar.jpg){ width=50% }
 
-![onions-after-wait](/.attachements/onion-after-wait.jpg)
+![onions-after-wait](/.attachements/onion-after-wait.jpg){ width=50% }
 
-![onions-after-fruits-gone](/.attachements/onion-after-fruits-gone.jpg)
+![onions-after-fruits-gone](/.attachements/onion-after-fruits-gone.jpg){ width=50% }
 
 ### Banana
 
