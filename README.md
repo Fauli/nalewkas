@@ -112,11 +112,11 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![beatroots-front](/.attachements/beatroots-front.jpg)
 
-![beatroots-sugar](/.attachements/beatroots-sugar.jpg)
+![beatroots-sugar](/.attachements/beatroot-sugar.jpg)
 
-![beatroots-after-wait](/.attachements/beatroots-after-wait.jpg)
+![beatroots-after-wait](/.attachements/beatroot-after-wait.jpg)
 
-![beatroots-after-fruits](/.attachements/beatroots-after-fruits-gone.jpg)
+![beatroots-after-fruits](/.attachements/beatroot-after-fruits-gone.jpg)
 
 ### Tomatoes
 
