@@ -104,27 +104,18 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p>
-  <img src="/.attachements/bananas-scale.jpg" alt="bananas-scale" width="50%">
-</p>
-<p>
-  <img src="/.attachements/bananas-front.jpg" alt="bananas-front" width="50%">
-</p>
-<p>
-  <img src="/.attachements/bananas-top.jpg" alt="bananas-top" width="50%">
-</p>
-<p>
-  <img src="/.attachements/banana-sugar.jpg" alt="bananas-sugar" width="50%">
-</p>
-  Adding the sugar to the container
-<p>
-  <img src="/.attachements/banana-after-wait.jpg" alt="bananas-after-wait" width="50%">
-</p>
-  Color of the mixture after the wait
-<p>
-  <img src="/.attachements/banana-after-fruits-gone.jpg" alt="bananas-after-fruits-gone" width="50%">
-</p>
-  Nalewka after the fruits are removed
+<img src="/.attachements/bananas-scale.jpg" alt="bananas-scale" width="50%">
+<img src="/.attachements/bananas-front.jpg" alt="bananas-front" width="50%">
+<img src="/.attachements/bananas-top.jpg" alt="bananas-top" width="50%">
+<img src="/.attachements/banana-sugar.jpg" alt="bananas-sugar" width="50%">
+Adding the sugar to the container
+
+<img src="/.attachements/banana-after-wait.jpg" alt="bananas-after-wait" width="50%">
+Color of the mixture after the wait
+
+<img src="/.attachements/banana-after-fruits-gone.jpg" alt="bananas-after-fruits-gone" width="50%">
+Nalewka after the fruits are removed
+
 
 ### Beetroots
 
