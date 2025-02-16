@@ -104,7 +104,7 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![bananas-after-fruits-gone](/.attachements/banana-after-fruits-gone.jpg)
 
-### Beatroots
+### Beetroots
 
 * 1.95kg of beatroots
 * 2.1l of 70% alcohol
