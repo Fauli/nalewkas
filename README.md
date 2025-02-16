@@ -14,6 +14,7 @@ My journey making various Nalewkas :)
     - [Banana](#banana)
     - [Red beets](#red-beets)
     - [Tomatoes](#tomatoes)
+    - [Garlic](#garlic)
 6. [Tried but not documented](#tried-but-not-documented)
 7. [Planned to try](#planned-to-try)
 
@@ -81,9 +82,9 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 
 ![onions-sugar](/.attachements/onion-sugar.jpg)
 
-![onions-after-wait](/.attachements/onions-after-wait.jpg)
+![onions-after-wait](/.attachements/onion-after-wait.jpg)
 
-![onions-after-fruits-gone](/.attachements/onions-after-fruits-gone.jpg)
+![onions-after-fruits-gone](/.attachements/onion-after-fruits-gone.jpg)
 
 ### Banana
 
@@ -110,6 +111,12 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 300g sugar
 
 ![beatroots-front](/.attachements/beatroots-front.jpg)
+
+![beatroots-sugar](/.attachements/beatroots-sugar.jpg)
+
+![beatroots-after-wait](/.attachements/beatroots-after-wait.jpg)
+
+![beatroots-after-fruits](/.attachements/beatroots-after-fruits-gone.jpg)
 
 ### Tomatoes
 
