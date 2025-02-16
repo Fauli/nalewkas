@@ -123,20 +123,14 @@ Nalewka after the fruits are removed
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p>
-  <img src="/.attachements/beetroots-front.jpg" alt="beetroots-front" width="50%">
-</p>
-<p>
-  <img src="/.attachements/beetroot-sugar.jpg" alt="beetroots-sugar" width="50%">
-</p>
-<p>
-  <img src="/.attachements/beetroot-after-wait.jpg" alt="beetroots-after-wait" width="50%">
-</p>
-  Color of the mixture after the wait
-<p>
-  <img src="/.attachements/beetroot-after-fruits-gone.jpg" alt="beetroots-after-fruits-gone" width="50%">
-</p>
-  Nalewka after the beetroots are removed
+<img src="/.attachements/beetroots-front.jpg" alt="beetroots-front" width="50%">
+<img src="/.attachements/beetroot-sugar.jpg" alt="beetroots-sugar" width="50%">
+<img src="/.attachements/beetroot-after-wait.jpg" alt="beetroots-after-wait" width="50%">
+
+Color of the mixture after the wait
+
+<img src="/.attachements/beetroot-after-fruits-gone.jpg" alt="beetroots-after-fruits-gone" width="50%">
+Nalewka after the beetroots are removed
 
 ### Tomatoes
 
@@ -144,27 +138,17 @@ Nalewka after the fruits are removed
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p>
-  <img src="/.attachements/tomatoes-cleaning.jpg" alt="tomatoes-cleaning" width="50%">
-</p>
-<p>
-  <img src="/.attachements/tomatoes-front.jpg" alt="tomatoes-front" width="50%">
-</p>
-<p>
-  <img src="/.attachements/tomatoes-top.jpg" alt="tomatoes-top" width="50%">
-</p>
-<p>
-  <img src="/.attachements/tomato-sugar.jpg" alt="tomatoes-sugar" width="50%">
-</p>
-  Adding the sugar to the container
-<p>
-  <img src="/.attachements/tomato-after-wait.jpg" alt="tomatoes-after-wait" width="50%">
-</p>
-  Color of the mixture after the wait
-<p>
-  <img src="/.attachements/tomato-after-fruits-gone.jpg" alt="tomatoes-after-fruits-gone" width="50%">
-</p>
-  Nalewka after the fruits are removed
+<img src="/.attachements/tomatoes-cleaning.jpg" alt="tomatoes-cleaning" width="50%">
+<img src="/.attachements/tomatoes-front.jpg" alt="tomatoes-front" width="50%">
+<img src="/.attachements/tomatoes-top.jpg" alt="tomatoes-top" width="50%">
+<img src="/.attachements/tomato-sugar.jpg" alt="tomatoes-sugar" width="50%">
+Adding the sugar to the container
+
+<img src="/.attachements/tomato-after-wait.jpg" alt="tomatoes-after-wait" width="50%">
+Color of the mixture after the wait
+
+<img src="/.attachements/tomato-after-fruits-gone.jpg" alt="tomatoes-after-fruits-gone" width="50%">
+Nalewka after the fruits are removed
 
 
 ### Garlic
