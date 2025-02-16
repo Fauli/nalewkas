@@ -76,22 +76,22 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p align="center">
+<p>
   <img src="/.attachements/onions-scale.jpg" alt="onions-scale" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/onions-front.jpg" alt="onions-front" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/onions-top.jpg" alt="onions-top" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/onion-sugar.jpg" alt="onions-sugar" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/onion-after-wait.jpg" alt="onions-after-wait" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/onion-after-fruits-gone.jpg" alt="onions-after-fruits-gone" width="50%">
 </p>
 
@@ -101,22 +101,22 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p align="center">
+<p>
   <img src="/.attachements/bananas-scale.jpg" alt="bananas-scale" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/bananas-front.jpg" alt="bananas-front" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/bananas-top.jpg" alt="bananas-top" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/banana-sugar.jpg" alt="bananas-sugar" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/banana-after-wait.jpg" alt="bananas-after-wait" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/banana-after-fruits-gone.jpg" alt="bananas-after-fruits-gone" width="50%">
 </p>
 
@@ -126,16 +126,16 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p align="center">
+<p>
   <img src="/.attachements/beetroots-front.jpg" alt="beetroots-front" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/beetroot-sugar.jpg" alt="beetroots-sugar" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/beetroot-after-wait.jpg" alt="beetroots-after-wait" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/beetroot-after-fruits-gone.jpg" alt="beetroots-after-fruits-gone" width="50%">
 </p>
 
@@ -145,22 +145,22 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.1l of 70% alcohol
 * 300g sugar
 
-<p align="center">
+<p>
   <img src="/.attachements/tomatoes-cleaning.jpg" alt="tomatoes-cleaning" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/tomatoes-front.jpg" alt="tomatoes-front" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/tomatoes-top.jpg" alt="tomatoes-top" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/tomato-sugar.jpg" alt="tomatoes-sugar" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/tomato-after-wait.jpg" alt="tomatoes-after-wait" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/tomato-after-fruits-gone.jpg" alt="tomatoes-after-fruits-gone" width="50%">
 </p>
 
@@ -171,16 +171,16 @@ Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherrie
 * 2.0l of 70% alcohol
 * 300g sugar
 
-<p align="center">
+<p>
   <img src="/.attachements/garlic-1.jpg" alt="onion-cutting" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/garlic-2.jpg" alt="onion-cut" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/garlic-3.jpg" alt="onion-prepared" width="50%">
 </p>
-<p align="center">
+<p>
   <img src="/.attachements/garlic-4.jpg" alt="onion-in-booze" width="50%">
 </p>
 
